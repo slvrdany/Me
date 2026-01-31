@@ -1,0 +1,342 @@
+* {
+    margin: 0px;
+    font-family: sans-serif;
+    color: #4E4F3D;
+    scroll-behavior: smooth;
+}
+
+.qqq {
+    background-color: #b0baafc1;
+}
+
+.nav {
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+#navi {
+    width: 60%;
+    height: 60px;
+    background-color: #E0DFDA;
+    border-radius: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5px;
+}
+
+#text_navi {
+    font-weight: 800;
+    font-size: 35px;
+}
+
+#text_navi:hover {
+    color: rgb(25, 47, 21);
+    transition: 2s;
+}
+
+a {
+    text-decoration-line: none;
+}
+
+.obo_mne {
+    width: 100%;
+    height: 300px;
+    background-image: url(real_fon1.jpg);
+    background-size: 100% 100%;
+    border-radius: 50px;
+    padding-top: 200px;
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+#about_me {
+    font-size: 70px;
+}
+
+.vse_mne {
+    display: flex;
+    justify-content: space-around;
+}
+
+#zag_atoa {
+    font-size: 30px;
+}
+
+#dop1 {
+    width: 200px;
+    height: 445px;
+    background-color: #E0DFDA;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#dop2 {
+    width: 200px;
+    height: 445px;
+    background-color: #E0DFDA;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#dop3 {
+    width: 200px;
+    height: 445px;
+    background-color: #E0DFDA;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#zzz {
+    width: 220px;
+    text-align: center;
+}
+
+#hz {
+    display: flex;
+}
+
+#strelka1 {
+    width: 130px;
+}
+
+#str1 {
+    width: 100%;
+    rotate: 180deg;
+}
+
+#me {
+    width: 90%;
+    height: 445px;
+}
+
+#zag_atoa2 {
+    font-size: 30px;
+}
+
+#strelka2 {
+    width: 130px;
+}
+
+#str2 {
+    width: 100%;
+    rotate: 180deg;
+}
+
+#me2 {
+    width: 70%;
+    height: 445px;
+}
+
+#zag_atoa3 {
+    font-size: 30px;
+}
+
+#strelka3 {
+    width: 130px;
+}
+
+#str3 {
+    width: 100%;
+    rotate: 180deg;
+}
+
+#me3 {
+    width: 70%;
+    height: 445px;
+}
+
+#ysa{
+    width: 13%;
+    height: 25%;
+    rotate: 270deg;
+    position: absolute;
+    left: 1300px;
+    top: 870px;
+}
+
+#luche {
+    font-size: 100px;
+    margin-left: 8%;
+}
+
+.leo_tig {
+    margin-top: 120px;
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #E0DFDA;
+    justify-content: space-between;
+    border-radius: 20px;
+}
+
+.leo {
+    display: flex;
+    margin-left: 50px;
+}
+
+#sti_leo {
+    width: 50%;
+    height: 500px;
+}
+
+#str4 {
+    width: 50%;
+    height: 3%;
+    rotate: 180deg;
+}
+
+.tig {
+    display: flex;
+    margin-top: 100px;
+}
+
+#sti_tig {
+    width: 80%;
+    height: 350px;
+}
+
+#str5 {
+    width: 70%;
+    height: 3%;
+    rotate: 180deg;
+}
+
+.vse_foto_lta {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+
+#l1 {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    text-align: center;
+    overflow: hidden;
+    margin: 4%;
+}
+
+#leo1 {
+    width: 100%;
+    position: relative;
+    bottom: 50px;
+}
+
+#l2 {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    text-align: center;
+    overflow: hidden;
+    margin: 4%;
+}
+
+#leo2 {
+    width: 150%;
+    position: relative;
+    bottom: 50px;
+    right: 25px;
+}
+
+#t1 {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    text-align: center;
+    overflow: hidden;
+    margin: 4%;
+}
+
+#tig1 {
+    width: 135%;
+    position: relative;
+    right: 40px;
+
+}
+
+#t2 {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    text-align: center;
+    overflow: hidden;
+    margin: 4%;
+}
+
+#tig2 {
+    width: 100%;
+}
+
+.lta {
+    width: 36%;
+    margin: 1%;
+}
+
+#lta {
+    width: 100%;
+    border-radius: 40px;
+}
+
+#text_lta {
+    font-size: 100px;
+    margin-left: 5%;
+}
+
+.vverx {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 100px;
+    position: sticky;
+    bottom: 10px;
+    float: right;
+}
+
+#vverx {
+    width: 30px;
+}
+
+.vverx:hover {
+    rotate: 360deg;
+    transition: 1s;
+}
+
+.podval {
+    display: flex;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    justify-content: space-evenly;
+    background-color: #E0DFDA;
+}
+
+#vk {
+    width: 40px;
+    margin-top: 10px;
+}
+
+#tg {
+    width: 40px;
+    margin-top: 10px;
+}
+
+#text_podval {
+    margin-top: 35px;
+}
+
+#love {
+    width: 12%;
+    position: absolute;
+    right: 850px;
+    top: 1605px;
+}
+
+#niz {
+    width: 11%;
+    position: absolute;
+    right: 10px;
+}
